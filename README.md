@@ -4,8 +4,12 @@ Useful links i've found on the internets
 ### UI Websites
 - [Hacking UI](http://hackingui.com/)
 
+### Development
+- [Code Guide](http://codeguide.co/)
 
-### Ruby on Rails
+### JavaScript
+- [How to Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+- [JavaScript is Sexy](http://javascriptissexy.com)
 
 
 ### Unclassified
@@ -29,6 +33,7 @@ Useful links i've found on the internets
 #### Web Design
 - [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/)
 - [Trademarks and Symbols](http://trademarksandsymbols.com/)
+- [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
 
 #### Ruby on Rails
 - [Rails Tutorial](https://www.railstutorial.org/book/)
