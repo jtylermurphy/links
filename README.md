@@ -28,6 +28,7 @@ Useful links i've found on the internets
 ### Books
 #### Web Design
 - [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/)
+- [Trademarks and Symbols](http://trademarksandsymbols.com/)
 
 #### Ruby on Rails
 - [Rails Tutorial](https://www.railstutorial.org/book/)
