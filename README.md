@@ -28,6 +28,10 @@ Useful links i've found on the internets
 - [ByPeople](http://www.bypeople.com)
 - [Normalize.css](http://necolas.github.io/normalize.css/)
 - [SuitCSS](http://suitcss.github.io/)
+- [Google Color Palette](http://www.google.com/design/spec/style/color.html#color-color-palette)
+
+### Things to look into
+- [Jekyll](http://jekyllrb.com/)
 
 ### Books
 #### Web Design
@@ -37,7 +41,6 @@ Useful links i've found on the internets
 
 #### Ruby on Rails
 - [Rails Tutorial](https://www.railstutorial.org/book/)
-
 
 ### Design Jobs
 - [Unicorn Hunt](https://unicornhunt.io)
