@@ -11,6 +11,9 @@ Useful links i've found on the internets
 - [How to Learn Javascript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 - [JavaScript is Sexy](http://javascriptissexy.com)
 
+### Game Development
+- [Playground.js](http://playgroundjs.com)
+- [PLYND](http://plynd.com)
 
 ### Unclassified
 - [Full Stack Radio](http://fullstackradio.com)
@@ -33,6 +36,9 @@ Useful links i've found on the internets
 ### Things to look into
 - [Jekyll](http://jekyllrb.com/)
 
+### Node.js
+- [Node Weekly](http://nodeweekly.com)
+
 ### Books
 #### Web Design
 - [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/)
@@ -44,3 +50,6 @@ Useful links i've found on the internets
 
 ### Design Jobs
 - [Unicorn Hunt](https://unicornhunt.io)
+
+### Other Resources
+- [Backblaze - computer backup](https://www.backblaze.com)
